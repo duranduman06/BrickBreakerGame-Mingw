@@ -1,1 +1,2 @@
-# BrickBreakerGame-Mingw
+# BrickBreakerGame-MinGW
+Brick Breaker Game MinGW - C
